@@ -1,0 +1,28 @@
+name: CCEG
+favicon: null
+layout_spectrum: 0.9902121245395392
+typography_spectrum: 0.522500783437863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7933511226437986
+  lightness: 0.24821370071731508
+  saturation: 0.2545844321139157
+  rhythmicContrast: 0.10307941236533225
+purpose: []
